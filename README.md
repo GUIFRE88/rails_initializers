@@ -1,24 +1,17 @@
-# README
+---
+<h1 align="center">
+  🚀 Rails Initializers 
+ 
+</h1>
+<br>
+ 
+## 💻 Neste curso foi utilizado as tecnologias:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [Ruby](https://www.ruby-lang.org/pt/)
 
-Things you may want to cover:
+## 💻 Projeto
 
-* Ruby version
+   - Foi criado um pequeno projeto para testar os Initializers do Ruby on Rails, com o objetivo de alisar, as principais funcionalidade ao realizar a abertura do server. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
+ ----
